@@ -22,7 +22,7 @@ An operational dashboard for teams managing permissioned tokenized assets. It he
 
 A platform for discovering social impact initiatives and exploring organization profiles. The frontend uses Next.js, TypeScript, Tailwind CSS, and shadcn/ui. The API is built with FastAPI and PostgreSQL.
 
-[Source code and setup guide](https://github.com/caio-contursi/social-trade)
+[Website](socialtrade.contursi.dev) · [Source code and setup guide](https://github.com/caio-contursi/social-trade)
 
 ---
 
