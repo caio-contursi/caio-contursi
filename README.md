@@ -28,6 +28,6 @@ A platform for discovering social impact initiatives and exploring organization 
 
 ## Technologies
  
-TypeScript · JavaScript · Python · SQL · React · Next.js · FastAPI · PostgreSQL · Tailwind · CSS C · C++ · Java · SQLAlchemy · Alembic · Git · Node.js
+TypeScript · JavaScript · Python · SQL · React · Next.js · Node.js · FastAPI · PostgreSQL · CSS · C · C++ · Java · SQL · Git/Github
 
 **Currently learning:** Rust and Anchor for Solana programs, including token transfer rules and on-chain verification.
