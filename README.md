@@ -6,13 +6,12 @@ I'm Caio, a software developer and student at the Federal University of the Stat
 
 ## Technologies
 
-- **Languages:** TypeScript, Python, and SQL.
-- **Front end:** React, Next.js, and Tailwind CSS.
-- **Back end and data:** FastAPI, PostgreSQL, SQLAlchemy, and Alembic.
-- **Tools:** Git, GitHub, and npm.
-- **Currently learning:** Solana development, with a focus on token transfer rules and on-chain transaction verification.
+- C/C++ | Java | JavaScript | TypeScript | Python | SQL | HTML/CSS
+- React | FastAPI | PostgreSQL | SQLAlchemy | Git | GitHub | npm | Node
 
-## Featured projects
+- **Currently learning:** Solana Devnet, Rust, Anchor, with focus on token transfer rules, on-chain transaction verification, smart contracts in general.
+
+## Featured projects until now
 
 | Project | What you'll find |
 | --- | --- |
