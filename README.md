@@ -1,6 +1,6 @@
-# Olá, eu sou Caio Contursi
+# Salve galera! 
 
-Desenvolvedor de software e estudante na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). Gosto de construir aplicações web que conectam interfaces, APIs e bancos de dados. Em projetos recentes, também venho explorando aplicações na Solana.
+Eu me chamo Caio, sou desenvolvedor de software e estudante na Universidade Federal do Estado do Rio de Janeiro (UNIRIO). Gosto de construir aplicações web que conectam interfaces, APIs e bancos de dados. Em projetos recentes, também venho explorando aplicações na Solana.
 
 [LinkedIn](https://br.linkedin.com/in/caio-contursi) · [c.fernandescontursi@gmail.com](mailto:c.fernandescontursi@gmail.com)
 
