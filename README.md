@@ -1,19 +1,32 @@
-# Hey everyone!
+# Caio Contursi
 
-I'm Caio, a software developer and student at the Federal University of the State of Rio de Janeiro (UNIRIO). I enjoy building web applications that connect user interfaces, APIs, and databases. In recent projects, I've also been exploring what I can build on Solana.
+**Software developer · Web applications and Solana development**
+
+Hey everyone! I'm Caio, a student at the Federal University of the State of Rio de Janeiro (UNIRIO). I build web applications that connect user interfaces, APIs, and databases. I'm also exploring how Solana programs enforce token transfer rules and how applications verify transactions on-chain.
 
 [LinkedIn](https://br.linkedin.com/in/caio-contursi) · [c.fernandescontursi@gmail.com](mailto:c.fernandescontursi@gmail.com)
 
-## Technologies
+## Featured projects
 
-- C/C++ | Java | JavaScript | TypeScript | Python | SQL | HTML/CSS
-- React | FastAPI | PostgreSQL | SQLAlchemy | Git | GitHub | npm | Node
+### Aveo Compliance Desk
 
-- **Currently learning:** Solana Devnet, Rust, Anchor, with focus on token transfer rules, on-chain transaction verification, smart contracts in general.
+A dashboard for inspecting wallet eligibility and finding out why a tokenized asset transfer is allowed or blocked. This hackathon project uses React and TypeScript for the dashboard and a Token-2022 Transfer Hook to enforce transfer policies on Solana Devnet.
 
-## Featured projects until now
+[Source code](https://github.com/caio-contursi/AVEO) · [Project status and demo instructions](https://github.com/caio-contursi/AVEO/blob/main/docs/current-status.md)
 
-| Project | What you'll find |
-| --- | --- |
-| [Aveo Compliance Desk](https://github.com/caio-contursi/AVEO) | A dashboard for investigating why a wallet can or cannot transfer a tokenized asset. The demo runs on Solana Devnet and uses React, TypeScript, and Token-2022. |
-| [SocialTrade](https://github.com/caio-contursi/social-trade) | A platform that connects donors with social impact projects and helps them discover initiatives and browse organization profiles. The interface uses Next.js and TypeScript, with a FastAPI backend and a PostgreSQL database. |
+### SocialTrade
+
+A platform that helps donors discover social impact initiatives and explore organization profiles. It combines a Next.js and TypeScript interface with a FastAPI backend and a PostgreSQL database.
+
+[Source code and local setup](https://github.com/caio-contursi/social-trade#readme)
+
+## Technical skills
+
+- **Front end** · JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS
+- **Back end and data** · Python, FastAPI, SQL, PostgreSQL, SQLAlchemy, Alembic
+- **Development tools** · Git, GitHub, Node.js, npm
+- **Additional languages** · C, C++, Java
+
+## Currently learning
+
+Rust and Anchor for Solana smart contracts, with a focus on token transfer rules, on-chain transaction verification, and testing on Devnet.
