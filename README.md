@@ -27,20 +27,7 @@ A platform for discovering social impact initiatives and exploring organization 
 ---
 
 ## Technologies
+ 
+TypeScript · JavaScript · Python · SQL · React · Next.js · FastAPI · PostgreSQL · Tailwind · CSS C · C++ · Java · SQLAlchemy · Alembic · Git · Node.js
 
-**Building with**  
-TypeScript · JavaScript · Python · SQL · React · Next.js · FastAPI · PostgreSQL · Tailwind CSS
-
-**Also used**  
-C · C++ · Java · SQLAlchemy · Alembic · Git · Node.js
-
-**Currently learning**  
-Rust and Anchor for Solana programs, including token transfer rules and on-chain verification.
-
----
-
-## Get in touch
-
-I’m interested in software development opportunities where I can contribute to real products, learn from a team, and keep growing across the stack.
-
-[Connect on LinkedIn](https://br.linkedin.com/in/caio-contursi) · [Send me an email](mailto:c.fernandescontursi@gmail.com)
+**Currently learning:** Rust and Anchor for Solana programs, including token transfer rules and on-chain verification.
