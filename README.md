@@ -16,13 +16,13 @@ An operational dashboard for teams managing permissioned tokenized assets. It he
 
 **Hackathon release candidate.** The demo uses synthetic eligibility data and has open wallet acceptance and security review gates.
 
-[Try the Devnet demo](https://aveoprotocol.io) · [Source code](https://github.com/caio-contursi/AVEO) · [Status and evidence](https://github.com/caio-contursi/AVEO/blob/main/docs/current-status.md)
+[Website](https://aveoprotocol.io) · [Source code](https://github.com/caio-contursi/AVEO) · [Status and evidence](https://github.com/caio-contursi/AVEO/blob/main/docs/current-status.md)
 
 ### SocialTrade · Next.js / TypeScript / FastAPI / PostgreSQL
 
 A platform for discovering social impact initiatives and exploring organization profiles. The frontend uses Next.js, TypeScript, Tailwind CSS, and shadcn/ui. The API is built with FastAPI and PostgreSQL.
 
-[Website](socialtrade.contursi.dev) · [Source code and setup guide](https://github.com/caio-contursi/social-trade)
+[Website](https://socialtrade.contursi.dev) · [Source code and setup guide](https://github.com/caio-contursi/social-trade)
 
 ---
 
