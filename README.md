@@ -2,7 +2,7 @@
 
 Full-Stack Developer
 
-I’m a software development student at **UNIRIO (Federal University of the State of Rio de Janeiro)**. I build web applications across the stack, from responsive interfaces to APIs and database-backed features. Recently, I’ve been exploring Solana programs and on-chain transaction flows.
+I’m an Information Systems student at **UNIRIO (Federal University of the State of Rio de Janeiro)**. I'm focused on build web applications from responsive interfaces to APIs and database-backed features. Recently, I’ve been exploring Solana programs and on-chain transaction flows.
 
 [LinkedIn](https://br.linkedin.com/in/caio-contursi) · [Email](mailto:c.fernandescontursi@gmail.com)
 
