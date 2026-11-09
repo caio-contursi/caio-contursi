@@ -6,8 +6,6 @@ I’m an Information Systems student at **UNIRIO (Federal University of the Stat
 
 [LinkedIn](https://br.linkedin.com/in/caio-contursi) · [Email](mailto:c.fernandescontursi@gmail.com)
 
----
-
 ## Selected work
 
 ### Aveo Compliance Desk · Solana / React / TypeScript
