@@ -22,8 +22,6 @@ A platform for discovering social impact initiatives and exploring organization 
 
 [Website](https://socialtrade.contursi.dev) · [Source code and setup guide](https://github.com/caio-contursi/social-trade)
 
----
-
 ## Technologies
  
 TypeScript · JavaScript · Python · SQL · React · Next.js · Node.js · FastAPI · PostgreSQL · CSS · C · C++ · Java · SQL · Git/Github
